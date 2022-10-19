@@ -1,0 +1,35 @@
+.main-head,
+.sub-head {
+    font-family: "Monaco", "Monospace Fonts";
+    color: rgb(0, 0, 0);
+}
+
+.main-head {
+    font-size: 36px;
+    text-align: center;
+}
+
+.sub-head {
+    font-size: 24px;
+}
+
+img {
+    height: 400px;
+    width: auto;
+}
+
+ul {
+    color: black;
+    background-color: lightgray;
+    font-family: "Courier New", "Monospace Fonts";
+
+}
+
+p {
+    font-family: "Courier New", "Monospace Fonts";
+}
+ol {
+    color: white;
+    background-color: gray;
+    font-family: "Courier New", "Monospace Fonts";
+}
